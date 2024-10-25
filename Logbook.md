@@ -161,7 +161,7 @@ endmodule
 
 #### Vbuddy Output
 
-*Vbuddy Output*
+![[]](/images/1.jpg)
 
 ---
 
@@ -286,7 +286,7 @@ endmodule
 
 #### Vbuddy Output
 
-*Vbuddy Output*
+![[]](/images/2.jpg)
 
 ---
 # Dual Sinusoid Generator
@@ -455,7 +455,7 @@ endmodule
 
 #### Vbuddy Output
 
-*Vbuddy Output*
+![[]](/images/3.jpg)
 
 ---
 # RAM Audio Signal Capture and Display
@@ -629,4 +629,4 @@ endmodule
 
 #### Vbuddy Output
 
-*Vbuddy Output*
+![[]](/images/4.jpg)
